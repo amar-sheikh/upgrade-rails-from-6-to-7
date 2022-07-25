@@ -16,7 +16,7 @@ rails_six/tmp/pids/*
 
 # Ignore uploaded files in development.
 rails_six/storage/*
-
+rails_six/node_modules
 rails_six/public/assets
 rails_six/.byebug_history
 
