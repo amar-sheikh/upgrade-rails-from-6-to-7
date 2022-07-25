@@ -25,3 +25,25 @@ rails_six/config/master.key
 
 rails_six/config/database.yml
 gems/*
+
+# Ignore bundler config.
+rails_seven/.bundle
+
+# Ignore all logfiles and tempfiles.
+rails_seven/log/*
+rails_seven/tmp/*
+
+# Ignore pidfiles, but keep the directory.
+rails_seven/tmp/pids/*
+
+# Ignore uploaded files in development.
+rails_seven/storage/*
+rails_seven/node_modules
+rails_seven/public/assets
+rails_seven/.byebug_history
+
+# Ignore master key for decrypting credentials and more.
+rails_seven/config/master.key
+
+rails_seven/config/database.yml
+
