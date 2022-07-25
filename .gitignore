@@ -24,3 +24,4 @@ rails_six/.byebug_history
 rails_six/config/master.key
 
 rails_six/config/database.yml
+gems/*
